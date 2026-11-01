@@ -1,0 +1,11 @@
+# Go build and test artifacts
+/vaultd
+*.exe
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Go workspace files
+/go.work
+/go.work.sum
